@@ -1,0 +1,7 @@
+module RMStore {
+    header "RMStore.h"
+    header "RMStoreKeychainPersistence.h"
+    header "RMStoreUserDefaultsPersistence.h"
+    header "RMStoreTransaction.h"
+    export *
+}
